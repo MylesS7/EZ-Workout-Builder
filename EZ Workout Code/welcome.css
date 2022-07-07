@@ -1,0 +1,60 @@
+h1{ 
+    text-align: center;
+    color: white; 
+}
+h2{ 
+    color: white; 
+}
+body{
+    background-color: purple; 
+    text-align: left;
+}
+img{
+    height: 300px;
+    width: 350px; 
+    margin-left: 600px;
+    margin-right: 600px; 
+} 
+p{ 
+    text-align: justify;
+    color: white;
+    font-size: larger;
+}
+
+a:link{ 
+    color:whitesmoke;
+    font-size: larger;
+} 
+a:visited{
+    color:whitesmoke;
+}
+a:hover{ 
+    color:red;
+}
+
+ol {
+    list-style-type: none;
+    margin:0px;
+    padding:0px;
+    overflow: hidden;
+    background-color: purple;
+  }
+  
+  li {
+    float:center;
+    
+  }
+  
+  li a {
+    display: block;
+    color: red;
+    text-align: center;
+    padding: 16px;
+    margin-left: 50px;
+    margin-right:50px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: pink;
+  }
